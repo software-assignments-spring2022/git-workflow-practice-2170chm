@@ -1,5 +1,5 @@
 # Article I Find Interesting
-Here is an article about different game development lifecycle methods
+Here is an article about different game development lifecycle models
 
 ## Link
 https://www.studytonight.com/3d-game-engineering-with-unity/game-development-models
